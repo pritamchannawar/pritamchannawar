@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning and Data Engineering<br>🌱 I’m currently learning Python, SQL, Spark, Advance Excel, Cloud Natives<br>👯 I’m looking to collaborate on Community Startups<br>🤝 I’m looking for help with Data Science Projects<br>💬 Ask me about Data Science<br>📫 How to reach me pc64214n@pace.edu<br>
+🔭 I’m currently working on Machine Learning and Data Analytics<br>🌱 I’m currently learning Python, SQL, Spark, Advance Excel, Cloud Natives<br>👯 MS in Data Science (Pace University '23)<br>🤝 I’m looking for help with Data Science Projects<br>💬 Ask me about Data Science<br>📫 How to reach me pc64214n@pace.edu<br>
 
 
 ## 🌐 Socials:
