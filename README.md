@@ -17,7 +17,7 @@ I am currently learning about Generative AI!
 <details>
 <summary><b>Click to see a detailed breakdown of my skills!</b></summary>
 
-The list of my skills below is very comprehensive, so to summarize, here are my **top 5 skills**: Python, R, SQL, Git and visualization.
+The list of my skills below is very comprehensive, so to summarize, here are my **top 5 skills**: Python, Tableau, SQL, Git and visualization.
     
 <br>
 
