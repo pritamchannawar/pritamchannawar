@@ -24,12 +24,12 @@ The list of my skills below is very comprehensive, so to summarize, here are my 
 | Skill Area | Skills |
 | ------------- |-------------|
 | **Programming** 		    | Python, R, SQL, Angular, JavaScript, HTML/CSS |
-| **Packages & Variants**	| Python (numpy, scipy, pandas, scikit-learn, astropy, matplotlib, seaborn), SQL (MySQL, PostgreSQL)|
+| **Packages & Variants**	| Python (numpy, scipy, pandas, scikit-learn, matplotlib, seaborn, Tensorflow, PyTorch), SQL (MySQL, PostgreSQ, MongoDBL)|
 | **IDEs and Softwares** 	| VS Code, Anaconda, RStudio, MySQLWorkbench, PGAdmin, Neo4j    |
 | **Version Control** 		| Git, Github, JIRA  |
 | **Visualization** 		| Tableau, Looker |
-| **Soft Skills** 		| Technical documentation, oral presentations, poster presentations, academic research skills, collaborations with other people, teams and organizations, mentorship, tutoring, outreach |
-| **Data Science Areas and Techniques** | Machine learning, artificial intelligence | Deep Learning |
+| **Soft Skills** 		| Technical documentation, oral presentations, poster presentations, academic research skills, collaborations with other people, teams and organizations, mentorship, tutoring, outreach, Story telling |
+| **Data Science Areas and Techniques** | Machine learning, artificial intelligence, Prompt Engineering | Deep Learning |
 
 </details>
 </div>
